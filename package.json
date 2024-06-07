@@ -1,0 +1,25 @@
+{
+  "name": "bookself",
+  "version": "1.0.0",
+  "main": "myServer.js",
+  "type": "module",
+  "scripts": {
+    "start": "node myServer.js",
+    "start-dev": "nodemon myServer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.9",
+    "nanoid": "^5.0.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "eslint": "^9.4.0",
+    "globals": "^15.3.0",
+    "nodemon": "^3.1.3"
+  }
+}
