@@ -1,2 +1,2 @@
 # NotesApp
-submision dicoding backend 
+Bookself-Server
